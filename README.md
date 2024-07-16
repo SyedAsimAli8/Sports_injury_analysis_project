@@ -5,7 +5,7 @@ About Dataset The dataset contains 3 files with information about the players me
 
 Dataset description
 
-Metrics dataset: provides data of hip mobility and groin squeeze of 30 athletes recorded every day from 01/05/2016 to 30/04/2018.
+Metrics dataset: provides data of hip mobility and groin squeeze of 30 athletes recorded every day.
 Workload dataset: provides workload taken by each athlete on a game day.
 Injuries dataset: provides the dates on which the athletes were injured during a game.
 
@@ -17,7 +17,7 @@ Modelling - Tasks
 Machine Learning model implementation
 Evaluating results using F1 score
 Visualising results
-Conclusion - Taks
+Conclusion - Tasks
 
 Identifying major features contributing for injuries
 Suggesting changes that can avoid injuries based on the statustical analysis.
