@@ -20,4 +20,4 @@ Visualising results
 Conclusion - Tasks
 
 Identifying major features contributing for injuries
-Suggesting changes that can avoid injuries based on the statustical analysis.
+Suggesting changes that can avoid injuries based on the statistical analysis.
